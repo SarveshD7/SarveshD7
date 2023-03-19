@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/sarveshdeshpande/"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/linkedin.png" alt="Sarvesh | LinkedIn" width="30px"/></a>
 <a href="https://twitter.com/sarv5703"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/twitter.png" alt="Sarvesh | Twitter" width="30px"/></a>
+<a href="https://www.instagram.com/sarv_5703"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/instagram.png" alt="Sarvesh | Instagram" width="30px"/></a>
