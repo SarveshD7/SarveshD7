@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sarv_5703"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/instagram.png" alt="Sarvesh | Instagram" width="30px"/></a>
 <br>
 ### 🤖 Techincal Skills
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/C_Programming_Language.png" alt="Sarvesh | C" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/c-.png" alt="Sarvesh | C++" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/python.png" alt="Sarvesh | Python" width="30px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/node-js.png" alt="Sarvesh | NodeJs" width="30px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-express-js-64.png" alt="Sarvesh | ExpressJs" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-mongodb-48" alt="Sarvesh | ExpressJs" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-react-30.png" alt="Sarvesh | ExpressJs" width="30px"/>
