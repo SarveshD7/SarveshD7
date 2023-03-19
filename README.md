@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <br>
 ### 🤖 Techincal Skills
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/node-js.png" alt="Sarvesh | NodeJs" width="30px"/>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/expressjs-ar21.svg" alt="Sarvesh | NodeJs" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-express-js-64.png" alt="Sarvesh | ExpressJs" width="30px"/>
