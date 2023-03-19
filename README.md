@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/python.png" alt="Sarvesh | Python" width="30px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/node-js.png" alt="Sarvesh | NodeJs" width="30px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-express-js-64.png" alt="Sarvesh | ExpressJs" width="30px"/>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-mongodb-48" alt="Sarvesh | ExpressJs" width="30px"/>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-react-30.png" alt="Sarvesh | ExpressJs" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-mongodb-48.png" alt="Sarvesh | MongoDB" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-react-30.png" alt="Sarvesh | ReactJs" width="30px"/>
