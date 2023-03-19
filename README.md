@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-mongodb-48.png" alt="Sarvesh | MongoDB" width="35px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/icons8-react-30.png" alt="Sarvesh | ReactJs" width="35px"/>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/database.png" alt="Sarvesh | ReactJs" width="35px"/>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/github.png" alt="Sarvesh | ReactJs" width="35px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/pytorch.png" alt="Sarvesh | Pytorch" width="35px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/tensorflow.png" alt="Sarvesh | Tensorflow" width="35px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/keras.png" alt="Sarvesh | Keras" width="35px"/>
