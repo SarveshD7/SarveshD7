@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/banner.png" alt="Sarvesh | Banner" />
+<br>
 - 🔭 I’m currently learning and exploring Machne Learning, Web and Android Development
+<br>
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/sarveshdeshpande/"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/linkedin.png" alt="Sarvesh | LinkedIn" width="35px"/></a>
 <a href="https://twitter.com/sarv5703"><img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/twitter.png" alt="Sarvesh | Twitter" width="35px"/></a>
