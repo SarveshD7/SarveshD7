@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/banner.png" alt="Sarvesh | Banner" />
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/SarveshD7/main/banner (1).png" alt="Sarvesh | Banner" />
 <br>
 - 🔭 I’m currently learning and exploring Machne Learning, Web and Android Development
 <br>
